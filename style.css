@@ -1,0 +1,113 @@
+.red {
+	background-color: red;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+}
+.green {
+	background-color: green;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+}
+.blue {
+	background-color: blue;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+}
+.alpha {
+	background-color: rgba(0,0,0,0.5);
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+}
+.AntiqueWhite {
+	background-color: black;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+}
+.AliceBlue {
+	background-color: aliceBlue;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+}
+
+.Aqua {
+	background-color: aqua;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+}
+.Aquamarine {
+	background-color: aquamarine;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+}
+.CornflowerBlue {
+	background-color: cornflowerBlue;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+}
+.FireBrick {
+	background-color: fireBrick;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+}
+.LightSlateGray {
+	background-color: lightSlateGray;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+}
+.MistyRose {
+	background-color: mistyRose;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+}
+.White {
+	background-color:white;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+} 
+.WhiteSmoke {
+	background-color: whiteSmoke;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+} 
+.Yellow {
+	background-color: yellow;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+} 
+.YellowGreen {
+	background-color: yellowGreen;
+	display: inline-block;
+    float: left;
+    height: 15em;
+    width: 15em;
+}
